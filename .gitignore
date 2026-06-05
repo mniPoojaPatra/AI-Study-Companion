@@ -1,0 +1,24 @@
+# Build output
+target/
+*.class
+*.war
+*.jar
+
+# Maven & Tomcat local installs
+apache-maven-3.9.15/
+apache-tomcat-10.1.55/
+*.zip
+
+# Environment / Secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+apache-maven-3.9.15/
+apache-tomcat-10.1.55/
+target/
+*.zip
+docs/
+.github/
+.vscode/
